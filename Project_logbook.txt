@@ -5,5 +5,10 @@ Team Logbook:
 2. Initial survey questions drafted for quantitative analysis.
 3. Qualitative interview protocols are being reviewed by the team.
 4. Next step: Sync all local repositories and begin data cleaning.
+<<<<<<< HEAD
 2026/4/29
 6.
+=======
+2026/4/30
+5.
+>>>>>>> 481cdedc0fd38c0219b23bc8f642f0df7777216a
