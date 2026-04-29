@@ -5,3 +5,4 @@ Team Logbook:
 2. Initial survey questions drafted for quantitative analysis.
 3. Qualitative interview protocols are being reviewed by the team.
 4. Next step: Sync all local repositories and begin data cleaning.
+5.
