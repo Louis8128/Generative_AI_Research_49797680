@@ -1,1 +1,7 @@
+Project Name: Generative AI Research - Boon or Bane
+Team Logbook:
 
+1. Literature review initiated for 2024-2026 AI trends.
+2. Initial survey questions drafted for quantitative analysis.
+3. Qualitative interview protocols are being reviewed by the team.
+4. Next step: Sync all local repositories and begin data cleaning.
